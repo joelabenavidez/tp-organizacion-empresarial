@@ -1,30 +1,33 @@
-  TP Organización Empresarial - Análisis de Ventas
+# TP Organización Empresarial - UTN
 
---Integrante--
+## Integrante
 - Joel Benavidez
 
---Materia--
-Organización Empresarial
+## Proyecto
+Análisis de ventas de productos básicos en pesos argentinos.
 
---Institución--
-UTN - Tecnicatura Universitaria en Programación
+## Escenario elegido
+Escenario B - Análisis de ventas de una pequeña empresa
 
---Escenario elegido--
-Escenario B - Análisis de ventas de una pequeña empresa.
+## Objetivo
+Procesar un dataset de ventas para calcular:
+- Total por operación
+- Productos vendidos
+- Análisis básico de datos
 
---Objetivo--
-Analizar información de ventas utilizando Python, Git, GitHub y Google Colab.
+## Estructura del proyecto
+- /datos → contiene el dataset ventas.csv
+- /scripts → contiene el script de análisis en Python
+- /resultados → contiene archivos generados
 
---Estructura del proyecto--
+## Cómo ejecutar
+1. Ejecutar el script scripts/analisis_ventas.py
+2. El resultado se genera en /resultados
 
-- /datos → datasets utilizados
-- /scripts → scripts de análisis
-- /resultados → gráficos y resultados generados
-
---Tecnologías utilizadas--
-
+## Tecnologías usadas
 - Python
-- Git
-- GitHub
+- Git y GitHub
 - Google Colab
-- Jira
+
+## Notas
+Proyecto desarrollado bajo metodología SCRUM con trazabilidad en Jira.
